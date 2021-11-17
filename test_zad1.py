@@ -10,7 +10,7 @@ def fizzbuzz(num):
     else:
         raise Exception("Error in FizzBuzz")
 
-def addWithDocString(self,x, y):
+def testWithDocFizz():
     """Takes two integers and adds them together to produce the result
     # >>> c = Calculate()
     >>> fizzbuzz(3)
